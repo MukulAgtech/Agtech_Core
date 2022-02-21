@@ -1,0 +1,10 @@
+{
+    "name": "agtech/core",
+    "description": "Akshar Group core module. It's purpose is to add menu and config placeholders",
+    "type": "metapackage",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "agtech/module-core": "^1.0.0"
+    }
+}
